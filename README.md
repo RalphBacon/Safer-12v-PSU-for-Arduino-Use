@@ -27,6 +27,9 @@ https://www.banggood.com/AC-DC-220V-To-12V-0_5A-Power-Supply-Module-Bare-Board-p
 Parallel resistance calculator. Unfortunately, it tells you the result of various parallel resistors not what resistors you need to achieve the result:  
 https://www.allaboutcircuits.com/tools/parallel-resistance-calculator/
 
+VH3.96 / CH3.96 cables (no idea what the difference is) from AliExpress:   
+http://s.click.aliexpress.com/e/cTr5twMY  
+
 This is the LED I used for a quick test, please note they WILL need heat sinks, suitable ones shown below:  
 https://www.banggood.com/4W-48led-COB-LED-Chip-480mA-WhiteWarm-White-For-DIY-DC-12V-p-959059.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
 
