@@ -1,5 +1,5 @@
-# Safer-12v-PSU-for-Arduino-Use
-No wall wart here, this is a standalone, mains driven 12v 1A PSU with some nice features
+# Safer 12v PSU for Arduino Users
+No wall wart here, this is a standalone, mains driven 12v 1A PSU with some nice safety features
 
 $5 for 10 dual-sided PCB boards: https://www.pcbway.com   
 PCB Prototyping the easy way - see my video #129 for Hands-On details.
@@ -15,9 +15,8 @@ Why Buy Your Printed Circuit Boards From PCBWay?
   * Factory Outlet PCBs with most competitive advantages  
   * Chief PCB Manufacturer Located in China 
 ```
-
-# See my video on Youtube video #135 Compact Switched Mode PSU
-### (Direct link to video: )
+# See my video on Youtube https://www.youtube.com video #135
+### (Direct link to video: https://youtu.be/83e-RfuBHVU)
 
 12v 1A PSU as tested here:  
 https://www.banggood.com/1A-12W-AC-220V-To-DC-12V-Switching-Power-Supply-Module-Isolation-Switch-Converter-Module-p-1352872.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897
